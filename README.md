@@ -1,4 +1,4 @@
-﻿# Trabalho 05: Projeto BARES (_Basic ARithmetic Expression Evaluator based on Stacks_)
+﻿# Projeto de Programação BARES (_Basic ARithmetic Expression Evaluator based on Stacks_)
 
 # Apresentação
 
